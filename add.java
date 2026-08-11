@@ -4,7 +4,7 @@ class add{
       }
 }
 class Main{
-   public static void main(String args[]){
+   public static void main(String[] args){
       add a=new add();
       int r=a.additionOfTwoNumbers(3,5);
       System.out.println(r);
