@@ -2,6 +2,7 @@ public class Subtraction {
     public int subOfTwoNumbers(int a,int b){
         return a-b;
     }
+    public int sumOfThreeNumbers(int a,int b,int c){return a-b-c;}
 }
 class hello{
     public static void main(String[] args){
