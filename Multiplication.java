@@ -9,5 +9,7 @@ class solve{
         int r=m.multiplyOfTwoNumbers(2,3);
         System.out.println(r);
         System.out.println(r);
+        System.out.println(r);
+
     }
 }
