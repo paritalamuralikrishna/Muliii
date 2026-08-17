@@ -12,5 +12,7 @@ class Main{
       add a=new add();
       int r=a.additionOfTwoNumbers(3,5);
       System.out.println(r);
+      int res=a.additionOfThreeNumbers(3,45,6);
+      System.out.println(res);
   }
 }
